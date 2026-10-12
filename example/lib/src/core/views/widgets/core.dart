@@ -1,5 +1,5 @@
 import 'package:example/src/core/usecase/responsive/responsive.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class ColoredTag extends StatelessWidget {
   const ColoredTag({
